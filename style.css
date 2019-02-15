@@ -1,0 +1,11 @@
+.coolTitle {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Oswald', Helvetica, sans-serif;
+    letter-spacing: 4px;
+    word-spacing: 4px;
+}
+
+.done {
+    text-decoration: line-through;
+}
